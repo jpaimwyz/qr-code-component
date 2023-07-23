@@ -29,7 +29,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Didn't learn somenthing new but it sure helped me practice some old skills. I estimated a time to finish in 50 minutes, and i did finish it in 50 minutes. Next projects i would like to see more of responsive layouts and acessibility in general, despite that, it was a great start and i am happy with the results i achieved.
 
 
 # Solução do desafio 'QR code component'
@@ -49,4 +49,4 @@ Esta é a minha solução para o desafio titulado ['QR code component' do Fronte
 
 ### Melhorias
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Não aprendi nada novo, mas com certeza me ajudou a praticar algumas skills antigas. Eu estimei um tempo de 50 minutos para terminar, e eu de fato terminei nesse tempo. Nos prõximos projetos eu gostaria de ver mais sobre layouts responsivos e acessibilidade em general. Apesar disso, foi um bom começo e eu estou feliz com os resultados que eu cheguei.
