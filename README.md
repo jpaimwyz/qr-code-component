@@ -4,7 +4,7 @@
 
 ### Links
 
-- Live Site URL: [Site](https://your-live-site-url.com)
+- Live Site URL: [QR code component](https://jpaimwyz.github.io/qr-code-component/)
 
 ## Author
 
@@ -13,11 +13,6 @@
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 Note: portuguese version [here](README-pt.md).
-
-## Table of contents
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Continued development](#continued-development)
 
 ## My process
 ### Built with
